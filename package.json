@@ -1,5 +1,5 @@
 {
-  "name": "node-bacekend",
+  "name": "bacekend",
   "version": "1.0.0",
   "description": "Creating a REST API with Node.js",
   "main": "index.js",
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/sounlida/Node-Bacekend/issues"
   },
-  "homepage": "https://github.com/sounlida/Node-Bacekend#readme"
+  "homepage": "https://github.com/sounlida/Node-Bacekend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }
