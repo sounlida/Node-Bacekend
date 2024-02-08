@@ -1,0 +1,23 @@
+{
+  "name": "node-bacekend",
+  "version": "1.0.0",
+  "description": "Creating a REST API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sounlida/Node-Bacekend.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "lida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sounlida/Node-Bacekend/issues"
+  },
+  "homepage": "https://github.com/sounlida/Node-Bacekend#readme"
+}
